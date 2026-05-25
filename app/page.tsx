@@ -13,7 +13,7 @@ import { ContentPreview } from "@/components/ContentPreview";
 import { StatsBar } from "@/components/StatsBar";
 import { ExportButtons } from "@/components/ExportButtons";
 import { ContentHistory } from "@/components/ContentHistory";
-import { LoadingAnimation } from "@/components/LoadingAnimation";
+import LoadingAnimation from "@/components/LoadingAnimation";
 import { Sparkles, RotateCcw } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
